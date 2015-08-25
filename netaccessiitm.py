@@ -1,7 +1,6 @@
 from mechanize import Browser
 import urllib2
 
-# New browser object
 br = Browser()
 
 # Going to the login page
